@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">rtl</string>
+    <string name="camera" translatable="false">camera</string>
+    <string name="record" translatable="false">record</string>
+    <string name="contacts" translatable="false">contacts</string>
+    <string name="coffee" translatable="false">coffe</string>
+</resources>

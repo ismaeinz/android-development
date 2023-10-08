@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">عربي</string>
+    <string name="camera">كاميرا</string>
+    <string name="record">مسجل</string>
+    <string name="contacts">جهات الاتصال</string>
+    <string name="coffee">قهوة</string>
+</resources>
